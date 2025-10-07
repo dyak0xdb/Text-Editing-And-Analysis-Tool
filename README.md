@@ -33,9 +33,8 @@ Text-Editing-And-Analysis-Tool/
 ├─ index.html         # Main page
 ├─ style.css          # Styling (AI-assisted with ChatGPT)
 │  index.js       # JavaScript logic
-├─ package.json
 ├─ README.md
-└─ LICENSE
+
 ```
 
 ---
