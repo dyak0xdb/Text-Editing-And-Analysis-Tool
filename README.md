@@ -3,7 +3,7 @@
 **A mini Raines project with JS for string methods**
 
 This lightweight web app demonstrates how to use **JavaScript string methods** for text editing and analysis.  
-It’s built using **HTML**, **CSS**, and **vanilla JavaScript**, and runs entirely in the browser.
+It’s built with **HTML**, **CSS**, and **vanilla JavaScript**, with part of the **CSS styling designed using AI (ChatGPT)**.
 
 ---
 
@@ -21,11 +21,22 @@ It’s built using **HTML**, **CSS**, and **vanilla JavaScript**, and runs entir
 ## 🧠 Technologies Used
 
 - **HTML5**
-- **CSS3**
+- **CSS3** (AI-assisted design using ChatGPT)
 - **JavaScript (ES6)**
 
 ---
 
+## 📂 Folder Structure
+
+```
+Text-Editing-And-Analysis-Tool/
+├─ index.html         # Main page
+├─ style.css          # Styling (AI-assisted with ChatGPT)
+│  index.js       # JavaScript logic
+├─ package.json
+├─ README.md
+└─ LICENSE
+```
 
 ---
 
@@ -49,4 +60,46 @@ If you want to run it with a local server:
 git clone https://github.com/dyak0xdb/Text-Editing-And-Analysis-Tool.git
 cd Text-Editing-And-Analysis-Tool
 npx live-server
+```
 
+> Or just double-click `index.html`.
+
+---
+
+## 🌐 Live Demo (optional)
+You can host it using **GitHub Pages**:
+
+1. Go to **Settings → Pages**
+2. Under “Build and deployment,” select:
+   - **Source:** `Deploy from branch`
+   - **Branch:** `main` → `/ (root)`
+3. Save — after a minute your app will be live at:
+   ```
+   https://dyak0xdb.github.io/Text-Editing-And-Analysis-Tool/
+   ```
+
+---
+
+## 📘 Learning Purpose
+
+This project is part of the **Raines mini series**, focusing on:
+- Practicing JavaScript **string manipulation methods**
+- DOM manipulation and event handling
+- Using **AI assistance (ChatGPT)** for design and documentation
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome.  
+For major changes, please open an issue first to discuss your idea.
+
+---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+© 2025 — A mini Raines project by **dyak0xdb**
