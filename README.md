@@ -22,7 +22,7 @@ It’s built with **HTML**, **CSS**, and **vanilla JavaScript**, with part of th
 
 - **HTML5**
 - **CSS3** (AI-assisted design using ChatGPT)
-- **JavaScript (ES6)**
+- **JavaScript **
 
 ---
 
