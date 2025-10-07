@@ -101,5 +101,6 @@ For major changes, please open an issue first to discuss your idea.
 This project is licensed under the [MIT License](./LICENSE).
 
 ---
+## project status: is not yet complete.
 
 © 2025 — A mini Raines project by **dyak0xdb**
